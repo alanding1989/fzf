@@ -513,10 +513,10 @@ fzf --preview 'head -100 {}'
 Preview window supports ANSI colors, so you can use programs that
 syntax-highlights the content of a file.
 
-- Bat: https://github.com/sharkdp/bat
-- Highlight: http://www.andre-simon.de/doku/highlight/en/highlight.php
-- CodeRay: http://coderay.rubychan.de/
-- Rouge: https://github.com/jneen/rouge
+- Bat: <https://github.com/sharkdp/bat>
+- Highlight: <http://www.andre-simon.de/doku/highlight/en/highlight.php>
+- CodeRay: <http://coderay.rubychan.de/>
+- Rouge: <https://github.com/jneen/rouge>
 
 ```bash
 # Try bat, highlight, coderay, rougify in turn, then fall back to cat
@@ -624,7 +624,7 @@ set -g FZF_CTRL_T_COMMAND "command find -L \$dir -type f 2> /dev/null | sed '1d;
 Related projects
 ----------------
 
-https://github.com/junegunn/fzf/wiki/Related-projects
+<https://github.com/junegunn/fzf/wiki/Related-projects>
 
 [License](LICENSE)
 ------------------
