@@ -7,3 +7,6 @@ Gemfile.lock
 doc/tags
 vendor
 gopath
+.idea
+.fzf.bash
+.fzf.zsh
