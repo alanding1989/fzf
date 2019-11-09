@@ -18,3 +18,5 @@ replace (
 	golang.org/x/sys v0.0.0-20190509141414-a5b02f93d862 => github.com/golang/sys v0.0.0-20190602015325-4c4f7f33c9ed
 	golang.org/x/text v0.0.0-20170530162606-4ee4af566555 => github.com/golang/text v0.3.2
 )
+
+go 1.13
